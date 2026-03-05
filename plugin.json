@@ -2,9 +2,9 @@
   "basePackage": "eu.darkbot.trinity",
   "name": "Trinity Plugin",
   "author": "Carnage",
-  "version": "1.0.22",
+  "version": "1.0.29",
   "minVersion": "1.120",
   "supportedVersion": "1.131",
-  "download": "https://github.com/Carnage9514/TrinityPlugin/releases/download/v1.0.22/TrinityPlugin.jar",
+  "download": "https://github.com/Carnage9514/TrinityPlugin/releases/download/v1.0.29/TrinityPlugin.jar",
   "update": "https://raw.githubusercontent.com/Carnage9514/TrinityPlugin/main/plugin.json"
 }
